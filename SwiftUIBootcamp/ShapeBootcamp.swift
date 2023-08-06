@@ -9,11 +9,11 @@ import SwiftUI
 
 struct ShapeBootcamp: View {
     var body: some View {
-        Circle()
-        //        Ellipse()
+                Circle()
+//                Ellipse()
         //        Capsule(style: .circular)
-        //        Rectangle()
-                RoundedRectangle(cornerRadius: 20)
+//                Rectangle()
+//                RoundedRectangle(cornerRadius: 20)
         //            .fill(Color.green)
         //            .foregroundColor(.pink)
         //            .stroke()
