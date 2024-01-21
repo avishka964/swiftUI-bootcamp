@@ -30,6 +30,6 @@
 - [TapGesture](https://developer.apple.com/documentation/swiftui/tapgesture)
 - [Text](https://developer.apple.com/documentation/swiftui/text)
 - [TextField](https://developer.apple.com/documentation/swiftui/textfield)
-- [toggle](https://developer.apple.com/documentation/swiftui/toggle)
+- [Toggle](https://developer.apple.com/documentation/swiftui/toggle)
 - [Transition](https://developer.apple.com/documentation/swiftui/transition)
 - [View](https://developer.apple.com/documentation/swiftui/view)
